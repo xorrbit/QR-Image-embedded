@@ -34,7 +34,7 @@
 #define MAX_DATACODEWORD 2956 //Maximum data word code (version 40-L)
 
 #define MAX_CODEBLOCK	  153 //(Including RS code word) the maximum number of block data code word
-#define MAX_MODULESIZE	  177 //Maximum number of modules in a side
+#define MAX_MODULESIZE	  48 //Maximum number of modules in a side
 #define MAX_BITDATA		 3917 // finfile data
 
 //Margin when drawing a bitmap
